@@ -6,7 +6,6 @@
 
 import processing.pdf.*;
 import geomerative.*;
-import AULib.*;
 String SVGShape = "frontPanel.svg";
 PGraphicsPDF pdf;
 int xSize = 1050;
