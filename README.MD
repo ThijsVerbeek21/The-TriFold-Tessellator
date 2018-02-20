@@ -1,4 +1,4 @@
-#The Trifold Tessellator Computer Bag Gennerator
+# The Trifold Tessellator Computer Bag Gennerator
 Fashion Designers, especially accessory designers, love to use patterns that repeat. Brands like Gucci, Hermes and Louis Vuitton built their brands upon these patterns. I used Processing to create a sketch that will let you design your own pattern (tessellation) and give you files to need to laser etch/cut your own computer bag.
 
 ## The Math
