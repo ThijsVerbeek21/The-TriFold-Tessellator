@@ -1,5 +1,5 @@
 # The Trifold Tessellator Computer Bag Gennerator
-Fashion Designers, especially accessory designers, love to use patterns that repeat. Brands like Gucci, Hermes and Louis Vuitton built their brands upon these patterns. I used Processing to create a sketch that will let you design your own pattern (tessellation) and give you files to need to laser etch/cut your own computer bag.
+Fashion Designers, especially accessory designers, love to use patterns that repeat. Brands like Gucci, Hermes and Louis Vuitton built their brands upon these patterns. I used Processing to create a sketch that will let you design your own pattern (tessellation) and give you files to need to laser etch/cut your own computer bag.  Instructions on how to sew the bag: https://www.instructables.com/id/Laser-Etched-Trifold-Leather-Bag/
 
 ## The Math
 
