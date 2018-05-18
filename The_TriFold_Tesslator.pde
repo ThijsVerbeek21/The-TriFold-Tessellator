@@ -4,10 +4,10 @@
 
 
 
-import processing.pdf.*;
-import geomerative.*;
-String SVGShape = "frontPanel.svg";
-PGraphicsPDF pdf;
+import processing.pdf.*; //saves the results as PDF
+import geomerative.*; //imports the svg
+String SVGShape = "frontPanel.svg";//brings the cutting pattern in as a svg
+PGraphicsPDF pdf; 
 int xSize = 1050;
 int ySize = 600;
 int xBox = 100;
@@ -31,13 +31,15 @@ int bagScale = 4;
 int xScale = 1000;
 int yScale = 100;
 float teslScale = 1;
+
 void setup() {
   size(xSize, ySize, P2D);
   frontPanel = loadShape(SVGShape);
   frontPanel.disableStyle();
   stroke(0, 0, 255);
   //frontPanel.noFill();
-  teslPoint [0][0] = xCenter;// Set the first box.
+  
+  teslPoint [0][0] = xCenter;// Set the first box.//create the intitial houndstooth pattern
   teslPoint [0][1] = yCenter - yBox/2;
 
   teslPoint [1][0] = xCenter + xBox/2;
